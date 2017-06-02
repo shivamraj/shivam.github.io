@@ -1,2 +1,0 @@
-var App = App || {}; 
- (function(exports) { exports.settings = {"countryCode":"US","language":"en","cultureCode":"en-US","searchSettings":{"roomBasePath":"/room/","tenantBasePath":"/tenant/","mapDirectory":"Kort"},"account":{"isPayingMember":false,"id":"00000000-0000-0000-0000-000000000000","isLoggedIn":false,"userType":1},"currentSiteId":20}; }(App));
